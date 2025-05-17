@@ -1,4 +1,5 @@
-interface Movable{
+
+interface Movable {
     void move();
     int efficiencyScore();
 }

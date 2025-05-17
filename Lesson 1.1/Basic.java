@@ -131,6 +131,7 @@ public static void averageAndRound(double score1, double score2, double score3){
     System.out.println("before: "+avg);
     System.out.println("after: "+(int)avg);
 }
+
 public static void convertAscii(){
     int num = scan.nextInt();
     System.out.println((char)num);
